@@ -2,7 +2,7 @@
 
 Preparation for a Tablekeeper entry in the WeAreDevelopers × BAND Dark Factory hackathon.
 
-**Status: preparation only. This is not a qualifying submission.** There is no service implementation, BAND run, room export, measured result, or presentation in this repository. GitHub publishing is pending; this checkout has no remote.
+**Status: preparation only. This is not a qualifying submission.** There is no service implementation, BAND run, room export, measured result, or presentation in this repository. Public source: https://github.com/ksmostofa/seatbelt. The local checkout has that repository configured as origin.
 
 Seatbelt's proposed product is a restaurant reservation app with a manager interface for recurring bookings and closure recovery. The proposed factory combines separate backend and frontend owners with independent specification-derived tests and review of a frozen commit.
 
