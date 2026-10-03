@@ -26,7 +26,7 @@ The organizer weights the factory at 50%, the app at 25%, and autonomous agent t
 
 ## Required UI choices
 
-Use shadcn with the exact preset `b1VlJBjs`, requested as Luma, and RareUI components only. Resolve the preset with the official installer and record its generated configuration before creating UI. Verify the official RareUI registry and install selected components from it. Do not claim this preset or any component has been installed: no dependencies or app exist yet.
+Use shadcn with the exact preset `b1VlJBjs`, requested as Luma, and RareUI components only. Resolve the preset with the official installer and record its generated configuration before creating UI. Use the exact verified plain-MIT upstream RareUI snapshot `c9a745c9cc04376f5a1abbd62d5fae9ea589944b`, as documented in Brook and Folio. Preserve its license and provenance; the current registry has different terms. Do not claim this preset or any component has been installed: no dependencies or app exist yet.
 
 ## Next action
 
